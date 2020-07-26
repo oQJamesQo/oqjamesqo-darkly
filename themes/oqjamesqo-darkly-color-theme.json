@@ -56,7 +56,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#9b4"
+				"foreground": "#4aa"
 			}
 		},
 		{
@@ -68,8 +68,14 @@
 				"punctuation.definition.tag.html",
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
-				"punctuation.section.embedded"
-			],
+				"punctuation.section.embedded",
+        "source.css support.type.property-name",
+        "source.sass support.type.property-name",
+        "source.scss support.type.property-name",
+        "source.less support.type.property-name",
+        "source.stylus support.type.property-name",
+        "source.postcss support.type.property-name"
+      ],
 			"settings": {
 				"foreground": "#999"
 			}
@@ -78,6 +84,7 @@
       "name": "Operator, Misc",
       "scope": [
         "keyword.control",
+        "source.sass keyword.control",
         "constant.other.color",
         "meta.tag",
         "keyword.other.template"
@@ -142,7 +149,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#9b4"
+				"foreground": "#783"
 			}
 		},
 		{
@@ -164,7 +171,6 @@
 			"name": "Class, Support",
 			"scope": [
 				"entity.name",
-				"support.type",
 				"support.class",
 				"support.orther.namespace.use.php",
 				"meta.use.php",
@@ -182,23 +188,19 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#89b"
 			}
 		},
-		{
-			"name": "CSS Class and Support",
-			"scope": [
-				"source.css support.type.property-name",
-				"source.sass support.type.property-name",
-				"source.scss support.type.property-name",
-				"source.less support.type.property-name",
-				"source.stylus support.type.property-name",
-				"source.postcss support.type.property-name"
-			],
-			"settings": {
-				"foreground": "#B2CCD6"
-			}
-		},
+    {
+      "name": "Language methods",
+      "scope": [
+        "variable.language.this"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#888"
+      }
+    },
 		{
 			"name": "Sub-methods",
 			"scope": [
@@ -257,7 +259,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#ba6"
 			}
 		},
 		{
@@ -266,16 +268,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
-			}
-		},
-		{
-			"name": "CSS ID's",
-			"scope": [
-				"source.sass keyword.control"
-			],
-			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#ba6"
 			}
 		},
 		{
