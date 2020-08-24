@@ -21,16 +21,27 @@
     {
       "name": "preprocessor",
       "scope": [
-        "keyword.preprocessor"
+        "keyword.preprocessor",
+        "keyword.other.using"
       ],
       "settings": {
         "foreground": "#a64"
       }
     },
     {
+      "name": "constants",
+      "scope": [
+        "constant",
+        "support.constant"
+      ],
+      "settings": {
+        "foreground": "#567"
+      }
+    },
+    {
       "name": "keyword",
       "scope": [
-        "keyword"
+        "keyword",
       ],
       "settings": {
         "foreground": "#37a"
@@ -39,10 +50,19 @@
     {
       "name": "keyword.type",
       "scope": [
-        "keyword.type"
+        "keyword.type",
       ],
       "settings": {
         "foreground": "#678"
+      }
+    },
+    {
+      "name": "entity.name.type",
+      "scope": [
+        "entity.name.type",
+      ],
+      "settings": {
+        "foreground": "#8ac"
       }
     },
     {
@@ -57,7 +77,7 @@
     {
       "name": "storage.modifier",
       "scope": [
-        "storage.modifier"
+        "storage.modifier",
       ],
       "settings": {
         "foreground": "#8a6"
@@ -67,6 +87,7 @@
       "name": "entity.name",
       "scope": [
         "entity.name",
+        "entity.name.variable",
         "entity.other.attribute-name",
         "meta.object-literal"
       ],
@@ -77,10 +98,20 @@
     {
       "name": "entity.name.function",
       "scope": [
-        "entity.name.function"
+        "entity.name.function",
+        "support.function"
       ],
       "settings": {
         "foreground": "#639"
+      }
+    },
+    {
+      "name": "support.name",
+      "scope": [
+        "support.type.property-name"
+      ],
+      "settings": {
+        "foreground": "#a60"
       }
     },
     {
@@ -89,17 +120,27 @@
         "string"
       ],
       "settings": {
-        "foreground": "#aa6"
+        "foreground": "#ccb"
       }
     },
     {
       "name": "variable",
       "scope": [
         "variable",
-        "entity.name.variable"
+        "variable.language",
       ],
       "settings": {
         "foreground": "#99a"
+      }
+    },
+    {
+      "name": "control",
+      "scope": [
+        "keyword.control",
+        "variable.language.this",
+      ],
+      "settings": {
+        "foreground": "#378"
       }
     },
     {

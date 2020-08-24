@@ -1,9 +1,11 @@
 {
   "name": "oqjamesqo-darkly",
-  "displayName": "oQJamesQo-darkly",
+  "displayName": "oQJamesQo Darkly Color Theme",
   "description": "A dark VS Code theme that is light on blues. Inspired by Markdownkit Dark theme.",
   "version": "0.0.1",
   "publisher": "oQJamesQo",
+  "icon": "jlogo256.png",
+  "repository": "https://github.com/oQJamesQo/oqjamesqo-darkly",
   "engines": {
     "vscode": "^1.0.0"
   },
