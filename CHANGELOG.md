@@ -6,4 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [0.0.1] - 24 Aug, 2020
+### Initial Release
+
+## [0.0.2] - 25 Aug, 2020
+### Replaced several colors.
