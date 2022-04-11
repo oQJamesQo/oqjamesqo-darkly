@@ -1,7 +1,10 @@
 # oQJamesQo Darkly
-## A visual Studio Code dark color theme.
-A simple dark theme to explore new colors. Still experimenting with color combinations.
+A dark VS Code theme that is light on blues. 
 
-### For more information on theming
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Primarily themed around typescript and html/css development with a .NET backend. 
+
+## License
+
+Copyright © oQJamesQo <oQJamesQo@gmail.com>
+
+Licensed under the [MIT](https://github.com/tcd/dark-plus-syntax/blob/master/LICENSE.md) license
