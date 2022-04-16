@@ -1,10 +1,12 @@
-# oQJamesQo Darkly
-A dark VS Code theme that is light on blues. 
-
-Primarily themed around typescript and html/css development with a .NET backend. 
-
+# Darklee Theme
+A darker theme that is light on blues. 
+<br><br>
+## Theme Screenshot
+![JS files](./images/js-screen.png)<br><br>
+![TS files](./images/ts-screen.png)<br><br>
+![SCSS files](./images/scss-screen.png)<br><br>
 ## License
-
-Copyright © oQJamesQo <oQJamesQo@gmail.com>
-
-Licensed under the [MIT](https://github.com/tcd/dark-plus-syntax/blob/master/LICENSE.md) license
+[MIT](https://github.com/tcd/dark-plus-syntax/blob/master/LICENSE.md)
+<br><br>
+## Developer Information
+oQJamesQo [https://github.com/oQJamesQo]

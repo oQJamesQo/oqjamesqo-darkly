@@ -1,10 +1,14 @@
 {
-  "name": "oqjamesqo-darkly",
-  "displayName": "oQJamesQo Darkly Color Theme",
-  "description": "A dark VS Code theme that is light on blues.",
-  "version": "0.0.3",
+  "name": "darklee-theme",
+  "displayName": "Darklee Color Theme",
+  "description": "A darker theme that is light on blues.",
+  "version": "0.0.4",
   "publisher": "oQJamesQo",
+  "license": "MIT",
   "icon": "jlogo256.png",
+  "galleryBanner": {
+    "color": "#040402"
+  },
   "repository": "https://github.com/oQJamesQo/oqjamesqo-darkly",
   "engines": {
     "vscode": "^1.0.0"
@@ -15,9 +19,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "oQJamesQo Darkly",
+        "label": "Darklee Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/oqjamesqo-darkly-color-theme.json"
+        "path": "./themes/darklee-color-theme.json"
       }
     ]
   }
