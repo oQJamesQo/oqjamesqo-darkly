@@ -628,6 +628,7 @@
     {
       "name": "preprocessor",
       "scope": [
+        "keyword.control.directive.include",
         "keyword.preprocessor",
         "keyword.other.using",
         "keyword.control.import",
@@ -662,7 +663,7 @@
         "entity.name.type",
       ],
       "settings": {
-        "foreground": "#ecb"
+        "foreground": "#fea"
       }
     },
     {
@@ -706,6 +707,7 @@
     {
       "name": "variable",
       "scope": [
+        "meta.block",
         "variable",
         "variable.language",
       ],
