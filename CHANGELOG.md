@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "oqjamesqo-darkly" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
 ## [0.0.1] - 24 Aug, 2020
@@ -14,3 +10,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.0.3] - 10 Apr, 2022
 ### Color changes outside the editor tokens.
+
+## [0.0.4] - 15 Apr, 2022
+### Moved to a new name Darklee.
+
+## [0.0.5] - 10 May, 2022
+### Few more color changes.
+
+## [0.0.6] - 12 May, 2022
+### Darkened a few text colors.

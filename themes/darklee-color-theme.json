@@ -635,7 +635,7 @@
         "keyword.control.from",
       ],
       "settings": {
-        "foreground": "#e84"
+        "foreground": "#fcc"
       }
     },
     {
@@ -654,7 +654,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground": "#c8c"
+        "foreground": "#c4a"
       }
     },
     {
@@ -663,7 +663,7 @@
         "entity.name.type",
       ],
       "settings": {
-        "foreground": "#fea"
+        "foreground": "#89a"
       }
     },
     {
@@ -682,7 +682,7 @@
         "storage.modifier",
       ],
       "settings": {
-        "foreground": "#8c4"
+        "foreground": "#6a4"
       }
     },
     {
@@ -692,7 +692,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#bee"
+        "foreground": "#add"
       }
     },
     {
@@ -712,7 +712,7 @@
         "variable.language",
       ],
       "settings": {
-        "foreground": "#999"
+        "foreground": "#808280"
       }
     },
     {
@@ -723,7 +723,7 @@
         "keyword.other.this"
       ],
       "settings": {
-        "foreground": "#aee"
+        "foreground": "#c0ccc7"
       }
     },
     {
@@ -738,7 +738,7 @@
         "variable.other.object.property"
       ],
       "settings": {
-        "foreground": "#bbc"
+        "foreground": "#a0a7a0"
       }
     },
     {
