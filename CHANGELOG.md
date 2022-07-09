@@ -19,3 +19,6 @@
 
 ## [0.0.6] - 12 May, 2022
 ### Darkened a few text colors.
+
+## [0.0.7] - 19 June, 2022
+### Added pride theme based on the main theme on Juneteenth. 
