@@ -1,8 +1,8 @@
 {
   "name": "darklee-theme",
-  "displayName": "Darklee Color Theme",
-  "description": "A darker theme that is light on blues.",
-  "version": "0.0.7",
+  "displayName": "Darklee Color Theme Set",
+  "description": "A set of dark themes that are light on blues.",
+  "version": "0.0.8",
   "publisher": "oQJamesQo",
   "license": "MIT",
   "icon": "jlogo256.png",
@@ -19,12 +19,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Darklee Theme",
+        "label": "Darklee - Deep Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/darklee-color-theme.json"
       },
       {
-        "label": "Darklee Pride Theme",
+        "label": "Darklee - Pride",
         "uiTheme": "vs-dark",
         "path": "./themes/darklee-pride-color-theme.json"
       }

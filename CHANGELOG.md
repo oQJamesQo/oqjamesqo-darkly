@@ -22,3 +22,6 @@
 
 ## [0.0.7] - 19 June, 2022
 ### Added pride theme based on the main theme on Juneteenth. 
+
+## [0.0.8] - 15 Aug, 2022
+### More color settiings for the Deep Dark theme in the set. 
