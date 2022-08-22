@@ -5,6 +5,7 @@ A set of dark themes that are light on blues.
 ![JS files](./images/js-screen.png)<br><br>
 ![TS files](./images/ts-screen.png)<br><br>
 ![SCSS files](./images/scss-screen.png)<br><br>
+![HTML files](./images/html-screen.png)<br><br>
 ## Pride
 ![TS files Pride Theme](./images/ts-screen-pride.png)<br><br>
 ## License

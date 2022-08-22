@@ -2,7 +2,7 @@
   "name": "Darklee - Deep Dark",
   "type": "dark",
   "colors": {
-    "activityBar.activeBorder": "#7c7c6c",
+    "activityBar.activeBorder": "#082c0f",
     "activityBar.background": "#040402",
     "activityBar.foreground": "#bfbfbb",
     "activityBar.inactiveForeground": "#bfbfbb66",
@@ -206,7 +206,7 @@
     //"extensionIcon.preReleaseForeground": "#1d9271",
     //"extensionIcon.starForeground": "#ff8e00",
     "extensionIcon.verifiedForeground": "#2cbc4c",
-    "focusBorder": "#bfbfbb66",
+    "focusBorder": "#082c0f33",
     //"foreground": "#cccccc",
     //"gitDecoration.addedResourceForeground": "#81b88b",
     //"gitDecoration.conflictingResourceForeground": "#e4676b",
@@ -634,14 +634,15 @@
         "keyword.control.from",
       ],
       "settings": {
-        "foreground": "#fcc"
+        "foreground": "#adc"
       }
     },
     {
       "name": "constants",
       "scope": [
         "constant",
-        "support.constant"
+        "support.constant",
+        "support.type.builtin",
       ],
       "settings": {
         "foreground": "#ace"
@@ -662,7 +663,7 @@
         "entity.name.type",
       ],
       "settings": {
-        "foreground": "#89a"
+        "foreground": "#8ab"
       }
     },
     {
@@ -673,6 +674,15 @@
       ],
       "settings": {
         "foreground": "#4ed"
+      }
+    },
+    {
+      "name": "primitive",
+      "scope": [
+        "support.type.primitive",
+      ],
+      "settings": {
+        "foreground": "#9ba"
       }
     },
     {
@@ -700,7 +710,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#dec"
+        "foreground": "#acc"
       }
     },
     {
@@ -737,7 +747,7 @@
         "variable.other.object.property"
       ],
       "settings": {
-        "foreground": "#a0a7a0"
+        "foreground": "#9aa"
       }
     },
     {
@@ -750,7 +760,7 @@
         "markup.deleted.git_gutter",
       ],
       "settings": {
-        "foreground": "#4be"
+        "foreground": "#2ac"
       }
     },
     {
