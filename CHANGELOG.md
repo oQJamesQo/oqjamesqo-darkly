@@ -28,3 +28,6 @@
 
 ## [0.0.9] - 21 Aug, 2022
 ### More color settings for the Deep Dark theme in the set. Updated few editor tokens to lower the intensity on non-HDR monitors.
+
+## [0.0.10] - 28 Aug, 2022
+### Updated more Deep Dark editor tokens to lower the intensity on non-HDR monitors.

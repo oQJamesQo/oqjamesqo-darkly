@@ -645,16 +645,18 @@
         "support.type.builtin",
       ],
       "settings": {
-        "foreground": "#ace"
+        "foreground": "#8ac"
       }
     },
     {
       "name": "keyword",
       "scope": [
         "keyword",
+        "keyword.other.this",
+        "keyword.control",
       ],
       "settings": {
-        "foreground": "#c4a"
+        "foreground": "#4bb"
       }
     },
     {
@@ -673,7 +675,7 @@
         "entity.other.inherited-class",
       ],
       "settings": {
-        "foreground": "#4ed"
+        "foreground": "#4bb"
       }
     },
     {
@@ -701,7 +703,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#add"
+        "foreground": "#9cc"
       }
     },
     {
@@ -710,7 +712,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#acc"
+        "foreground": "#789"
       }
     },
     {
@@ -728,11 +730,10 @@
       "name": "objects",
       "scope": [
         "support.type.object",
-        "variable.other.object",
-        "keyword.other.this"
+        "variable.other.object"
       ],
       "settings": {
-        "foreground": "#c0ccc7"
+        "foreground": "#b0bbb7"
       }
     },
     {
@@ -753,14 +754,13 @@
     {
       "name": "tag-n-control",
       "scope": [
-        "keyword.control",
         "variable.language.this",
         "entity.name.tag",
         "meta.tag.sgml",
         "markup.deleted.git_gutter",
       ],
       "settings": {
-        "foreground": "#2ac"
+        "foreground": "#4ab"
       }
     },
     {
