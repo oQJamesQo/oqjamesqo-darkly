@@ -31,3 +31,6 @@
 
 ## [0.0.10] - 28 Aug, 2022
 ### Updated more Deep Dark editor tokens to lower the intensity on non-HDR monitors.
+
+## [0.0.11] - 16 Sep, 2022
+### Updated Deep Dark editor list colors intensity for better visibility on non-HDR monitors.
