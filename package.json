@@ -2,7 +2,7 @@
   "name": "darklee-theme",
   "displayName": "Darklee Color Theme Set",
   "description": "A set of dark themes that are light on blues.",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "publisher": "oQJamesQo",
   "license": "MIT",
   "icon": "jlogo256.png",
@@ -11,7 +11,7 @@
   },
   "repository": "https://github.com/oQJamesQo/oqjamesqo-darkly",
   "engines": {
-    "vscode": "^1.0.0"
+    "vscode": "^1.5.0"
   },
   "categories": [
     "Themes"
@@ -21,12 +21,12 @@
       {
         "label": "Darklee - Deep Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/darklee-color-theme.json"
+        "path": "./themes/darklee-dd-color-theme.json"
       },
       {
-        "label": "Darklee - Pride",
+        "label": "Darklee - Army",
         "uiTheme": "vs-dark",
-        "path": "./themes/darklee-pride-color-theme.json"
+        "path": "./themes/darklee-army-color-theme.json"
       }
     ]
   }

@@ -6,8 +6,8 @@ A set of dark themes that are light on blues.
 ![TS files](./images/ts-screen.png)<br><br>
 ![SCSS files](./images/scss-screen.png)<br><br>
 ![HTML files](./images/html-screen.png)<br><br>
-## Pride
-![TS files Pride Theme](./images/ts-screen-pride.png)<br><br>
+## Army
+![TS files](./images/ts-screen-army.png)<br><br>
 ## License
 [MIT](./LICENSE)
 <br><br>

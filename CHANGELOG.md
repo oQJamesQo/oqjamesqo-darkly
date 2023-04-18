@@ -1,7 +1,5 @@
 # Change Log
 
-## [Unreleased]
-
 ## [0.0.1] - 24 Aug, 2020
 ### Initial Release
 
@@ -20,9 +18,6 @@
 ## [0.0.6] - 12 May, 2022
 ### Darkened a few text colors.
 
-## [0.0.7] - 19 June, 2022
-### Added pride theme based on the main theme on Juneteenth. 
-
 ## [0.0.8] - 15 Aug, 2022
 ### More color settings for the Deep Dark theme in the set. 
 
@@ -34,3 +29,6 @@
 
 ## [0.0.11] - 16 Sep, 2022
 ### Updated Deep Dark editor list colors intensity for better visibility on non-HDR monitors.
+
+## [0.0.11] - 17 Apr, 2023
+### Added army colored theme.
