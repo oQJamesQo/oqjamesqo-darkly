@@ -1,20 +1,61 @@
 {
   "name": "darklee-theme",
   "displayName": "Darklee Color Theme Set",
-  "description": "A set of dark themes that are light on blues.",
-  "version": "0.0.12",
+  "description": "A set of Visual Studio Code themes that are on the dark side of the moon.",
+  "version": "0.0.13",
   "publisher": "oQJamesQo",
+  "author": {
+    "name": "oQJamesQo"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/oQJamesQo/oqjamesqo-darkly"
+  },
+  "galleryBanner": {
+    "color": "#040402",
+    "theme": "dark"
+  },
   "license": "MIT",
   "icon": "jlogo256.png",
-  "galleryBanner": {
-    "color": "#040402"
-  },
-  "repository": "https://github.com/oQJamesQo/oqjamesqo-darkly",
   "engines": {
     "vscode": "^1.5.0"
   },
+  "bugs": {
+    "url": "https://github.com/oQJamesQo/oqjamesqo-darkly/issues"
+  },
+  "qna": "https://github.com/oQJamesQo/oqjamesqo-darkly/issues",
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Deep Dark",
+    "Theme Set",
+    "Darklee"
+  ],
+  "badges": [
+    {
+      "url": "https://vsmarketplacebadges.dev/version/oQJamesQo.darklee-theme.png",
+      "href": "https://marketplace.visualstudio.com/items/oQJamesQo.darklee-theme",
+      "description": "Extension version"
+    },
+    {
+      "url": "https://vsmarketplacebadges.dev/installs/oQJamesQo.darklee-theme.png",
+      "href": "https://marketplace.visualstudio.com/items/oQJamesQo.darklee-theme",
+      "description": "Extension installs"
+    },
+    {
+      "url": "https://vsmarketplacebadges.dev/downloads/oQJamesQo.darklee-theme.png",
+      "href": "https://marketplace.visualstudio.com/items/oQJamesQo.darklee-theme",
+      "description": "Extension downloads"
+    },
+    {
+      "url": "https://vsmarketplacebadges.dev/rating/oQJamesQo.darklee-theme.png",
+      "href": "https://marketplace.visualstudio.com/items/oQJamesQo.darklee-theme",
+      "description": "Extension Rating"
+    }
   ],
   "contributes": {
     "themes": [
