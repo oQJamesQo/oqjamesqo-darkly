@@ -30,5 +30,11 @@
 ## [0.0.11] - 16 Sep, 2022
 ### Updated Deep Dark editor list colors intensity for better visibility on non-HDR monitors.
 
-## [0.0.11] - 17 Apr, 2023
+## [0.0.12] - 17 Apr, 2023
 ### Added army colored theme.
+
+## [0.0.13] - 20 Apr, 2023
+### Updated Readme.
+
+## [0.0.14] - 23 Apr, 2023
+### Added charcoal colored theme.

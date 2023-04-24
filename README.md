@@ -1,8 +1,9 @@
 # Darklee Theme Set
 > ## A set of Visual Studio Code themes that are on the dark side of the moon.<br>
 > ### Themes Included
-> - #### Deep Dark
-> - #### Army
+> - #### Darklee - Army
+> - #### Darklee - Charcoal
+> - #### Darklee - Deep Dark
 
 ---
 
@@ -13,22 +14,25 @@
 1. Open the extensions sidebar on Visual Studio Code
 1. Search for Darklee
 1. Click Install
-1. Select the settings button on the bottom left > Color Theme ＞ Choose one of 
+1. Click "Set Color Theme" button om the extension details tab ＞ Select one of 
     - "Darklee - Army"
+    - "Darklee - Charcoal"
     - "Darklee - Deep Dark"
-1. Consider rating it in the market place
+1. Consider rating the theme in the market place
 
 <br>
 
 # Theme Screenshots
 
-## Deep Dark
+## Darklee - Deep Dark
 ![HTML files](./images/html-screen.png) <br><br>
 ![JS files](./images/js-screen.png) <br><br>
 ![TS files](./images/ts-screen.png) <br><br>
 ![SCSS files](./images/scss-screen.png) <br><br>
-## Army
+## Darklee - Army
 ![TS files](./images/ts-screen-army.png) <br><br>
+## Darklee - Charcoal
+![TS files](./images/ts-screen-charcoal.png) <br><br>
 ## License
 [MIT](./LICENSE)<br>
 ## Developer Information
